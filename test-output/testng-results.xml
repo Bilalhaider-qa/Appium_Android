@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-16T13:15:05 PKT" name="Default suite" finished-at="2023-03-16T13:17:34 PKT" duration-ms="148412">
+    <groups>
+    </groups>
+    <test started-at="2023-03-16T13:15:05 PKT" name="Default test" finished-at="2023-03-16T13:17:34 PKT" duration-ms="148412">
+      <class name="Tests.TestCases">
+        <test-method is-config="true" signature="ReportSetup()[pri:0, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:05 PKT" name="ReportSetup" finished-at="2023-03-16T13:15:05 PKT" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:05 PKT" name="Setup" finished-at="2023-03-16T13:15:15 PKT" duration-ms="9315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="countryselector()[pri:1, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:15 PKT" name="countryselector" finished-at="2023-03-16T13:15:28 PKT" duration-ms="13180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countryselector -->
+        <test-method signature="PreferenceGender()[pri:2, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:28 PKT" name="PreferenceGender" finished-at="2023-03-16T13:15:32 PKT" duration-ms="4176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreferenceGender -->
+        <test-method signature="MyAccount()[pri:3, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:32 PKT" name="MyAccount" finished-at="2023-03-16T13:15:36 PKT" duration-ms="4126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAccount -->
+        <test-method signature="Signin()[pri:4, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:36 PKT" name="Signin" finished-at="2023-03-16T13:15:49 PKT" duration-ms="12557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method signature="HomeToPLP()[pri:5, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:15:49 PKT" name="HomeToPLP" finished-at="2023-03-16T13:16:30 PKT" duration-ms="41120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeToPLP -->
+        <test-method signature="PDP()[pri:6, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:16:30 PKT" name="PDP" finished-at="2023-03-16T13:16:49 PKT" duration-ms="18856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PDP -->
+        <test-method signature="Cart()[pri:7, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:16:49 PKT" name="Cart" finished-at="2023-03-16T13:17:05 PKT" duration-ms="15782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cart -->
+        <test-method signature="Checkout()[pri:8, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:17:05 PKT" name="Checkout" finished-at="2023-03-16T13:17:34 PKT" duration-ms="29058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:17:34 PKT" name="Teardown" finished-at="2023-03-16T13:17:34 PKT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="ReportTeardown()[pri:0, instance:Tests.TestCases@59505b48]" started-at="2023-03-16T13:17:39 PKT" name="ReportTeardown" finished-at="2023-03-16T13:17:39 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportTeardown -->
+      </class> <!-- Tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
